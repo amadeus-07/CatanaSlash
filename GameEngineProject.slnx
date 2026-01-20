@@ -2,7 +2,7 @@
   <Project Path="UniRx.csproj" />
   <Project Path="VContainer.csproj" />
   <Project Path="VContainer.Editor.csproj" />
-  <Project Path="UniRx.Examples.csproj" />
   <Project Path="Assembly-CSharp.csproj" />
+  <Project Path="UniRx.Examples.csproj" />
   <Project Path="Assembly-CSharp-Editor.csproj" />
 </Solution>

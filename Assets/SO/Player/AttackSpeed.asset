@@ -12,4 +12,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6eb350e1c758cad09884bc2e785fff1b, type: 3}
   m_Name: AttackSpeed
   m_EditorClassIdentifier: Assembly-CSharp::AttackSpeedSO
-  _value: 1
+  _value: 2

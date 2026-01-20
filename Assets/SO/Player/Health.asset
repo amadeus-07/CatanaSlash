@@ -12,5 +12,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 318751872a0090ab8a89a763a28f2100, type: 3}
   m_Name: Health
   m_EditorClassIdentifier: Assembly-CSharp::HealthSO
-  _max: 5
-  _current: 5
+  _max: 10
+  _current: 10
